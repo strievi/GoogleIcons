@@ -67,7 +67,7 @@
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.thunderdog.challegram/.MainActivity}" drawable="telegramx" />
     <item component="ComponentInfo{com.google.android.apps.translate/.TranslateActivity}" drawable="translate" />
-    <item component="ComponentInfo{com.google.android.apps.nbu.files/.home.HomeActivity}" drawable="files" />
+    <item component="ComponentInfo{com.google.android.apps.nbu.files/.home.HomeActivity}" drawable="filesgo" />
     <item component="ComponentInfo{com.google.android.talk/.SigningInActivity}" drawable="hangouts" />
     <item component="ComponentInfo{com.intsig.camscanner/.WelcomeActivity}" drawable="camscanner" />
     <item component="ComponentInfo{com.spotify.music/.MainActivity}" drawable="spotify" />
@@ -115,6 +115,7 @@
     <item component="ComponentInfo{com.pinterest/.activity.PinterestActivity}" drawable="pinterest" />
     <item component="ComponentInfo{net.sourceforge.opencamera/.MainActivity}" drawable="camera" />
     <item component="ComponentInfo{com.zoiper.android.app/com.zoiper.android.ui.MainActivity}" drawable="dialer" />
+    <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed" />
 
     <!-- ASUS -->
     <item component="ComponentInfo{com.android.browser/.BrowserActivity}" drawable="browser" />
