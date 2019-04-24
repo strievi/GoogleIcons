@@ -25,17 +25,6 @@
         defaultHour="10"
         defaultMinute="10" />
 
-    <!-- Iris UI Clock -->
-    <dynamic-clock drawable="clock2"
-        hourLayerIndex="0"
-        minuteLayerIndex="1"
-        secondLayerIndex="2"
-        defaultHour="10"
-        defaultMinute="10"
-        defaultSecond="30" />
-
-    <item component="ComponentInfo{com.google.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock2" />
-
     <!-- Global -->
     <item component="ComponentInfo{com.android.calendar/.AllInOneActivity}" drawable="calendar" />
     <calendar component="ComponentInfo{com.android.calendar/.AllInOneActivity}" prefix="logo_calendar_" />
@@ -64,56 +53,12 @@
     <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="browser" />
     <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="browser" />
     <item component="ComponentInfo{org.chromium.chrome/com.google.android.apps.chrome.Main}" drawable="browser" />
-    <item component="ComponentInfo{com.kabouzeid.gramophone/.ui.activities.MainActivity}" drawable="phonograph" />
-    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
-    <item component="ComponentInfo{org.thunderdog.challegram/.MainActivity}" drawable="telegramx" />
     <item component="ComponentInfo{com.google.android.apps.translate/.TranslateActivity}" drawable="translate" />
     <item component="ComponentInfo{com.google.android.apps.nbu.files/.home.HomeActivity}" drawable="filesgo" />
     <item component="ComponentInfo{com.google.android.talk/.SigningInActivity}" drawable="hangouts" />
-    <item component="ComponentInfo{com.intsig.camscanner/.WelcomeActivity}" drawable="camscanner" />
-    <item component="ComponentInfo{com.spotify.music/.MainActivity}" drawable="spotify" />
-    <item component="ComponentInfo{pl.allegro/.Allegro}" drawable="allegro" />
-    <item component="ComponentInfo{com.google.android.apps.youtube.creator/.main.MainActivity}" drawable="yt_studio" />
-    <item component="ComponentInfo{com.google.android.youtube/.app.honeycomb.Shell$HomeActivity}" drawable="youtube" />
-    <item component="ComponentInfo{com.authy.authy/.activities.InitializationActivity}" drawable="authy" />
     <item component="ComponentInfo{com.google.android.apps.giant/.activity.LauncherActivity}" drawable="analytics" />
-    <item component="ComponentInfo{com.snapchat.android/.LandingPageActivity}" drawable="snapchat" />
-    <item component="ComponentInfo{com.linkedin.android/.authenticator.LaunchActivity}" drawable="linkedin" />
-    <item component="ComponentInfo{com.termux/.app.TermuxActivity}" drawable="termux" />
-    <item component="ComponentInfo{com.njlabs.showjava/.ui.Landing}" drawable="show_java" />
-    <item component="ComponentInfo{com.dexplorer/.activities.ApplicationSelectionActivity}" drawable="dexplorer" />
-    <item component="ComponentInfo{com.musixmatch.android.lyrify/com.musixmatch.android.ui.phone.DashBoardActivity}" drawable="musixmatch" />
-    <item component="ComponentInfo{com.bitstrips.imoji/.ui.LandingActivity}" drawable="bitmoji" />
     <item component="ComponentInfo{com.footej.camera/.CameraActivity}" drawable="camera" />
     <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="files" />
-    <item component="ComponentInfo{com.soundcloud.creators/com.soundcloud.creators.MainActivity}" drawable="soundcloud_pulse" />
-    <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}" drawable="soundcloud" />
-    <item component="ComponentInfo{com.spotify.s4a/.SplashActivity}" drawable="spotify_artists" />
-    <item component="ComponentInfo{com.freshdesk.helpdesk/.fdlogic.ui.activity.LoginActivity}" drawable="freshdesk" />
-    <item component="ComponentInfo{com.instagram.boomerang/.BoomerangActivity}" drawable="boomerang" />
-    <item component="ComponentInfo{com.instagram.layout/.LayoutActivity}" drawable="layout" />
-    <item component="ComponentInfo{com.instagram.android/.activity.MainTabActivity}" drawable="instagram" />
-    <item component="ComponentInfo{rs.pstech.scrumtimeplanningpoker/rs.pstech.scrumtimeplanningpoker.activities.SplashScreenActivity}" drawable="scrumtime" />
-    <item component="ComponentInfo{com.apple.android.music/.onboarding.activities.SplashActivity}" drawable="applemusic" />
-    <item component="ComponentInfo{com.amazon.dee.app/.Launcher}" drawable="alexa" />
-    <item component="ComponentInfo{com.tinder/.activities.LoginActivity}" drawable="tinder" />
-    <item component="ComponentInfo{com.tencent.mm/.ui.LauncherUI}" drawable="wechat" />
-    <item component="ComponentInfo{com.quora.android/.components.activities.LauncherActivity}" drawable="quora" />
-    <item component="ComponentInfo{com.sina.weibo/.SplashActivity}" drawable="weibo" />
-    <item component="ComponentInfo{com.weico.international/.activity.LogoActivity}" drawable="weibo" />
-    <item component="ComponentInfo{com.nianticproject.ingress/.NemesisActivity}" drawable="ingress" />
-    <item component="ComponentInfo{com.nianticlabs.pokemongo/com.nianticproject.holoholo.libholoholo.unity.UnityMainActivity}" drawable="pokemon_go" />
-    <item component="ComponentInfo{com.waterdaaan.cpufloat/.MainActivity}" drawable="cpufloat" />
-    <item component="ComponentInfo{com.cpuid.cpu_z/.MainActivity}" drawable="cpu_z" />
-    <item component="ComponentInfo{com.facebook.orca/.auth.StartScreenActivity}" drawable="fb_messenger" />
-    <item component="ComponentInfo{com.facebook.mlite/.coreui.view.MainActivity}" drawable="fb_messenger_lite" />
-    <item component="ComponentInfo{com.microsoft.office.word/com.microsoft.office.apphost.LaunchActivity}" drawable="ms_word" />
-    <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="ms_excel" />
-    <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="ms_powerpoint" />
-    <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="ms_onenote" />
-    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="ms_onedrive" />
-    <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
-    <item component="ComponentInfo{com.pinterest/.activity.PinterestActivity}" drawable="pinterest" />
     <item component="ComponentInfo{net.sourceforge.opencamera/.MainActivity}" drawable="camera" />
     <item component="ComponentInfo{com.zoiper.android.app/com.zoiper.android.ui.MainActivity}" drawable="dialer" />
     <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed" />
